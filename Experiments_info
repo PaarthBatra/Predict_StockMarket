@@ -1,0 +1,6 @@
+Experiment 1 :
+1. Get data for last 10days from bhav.csv
+2. Predict value of 10th day with value of 9th day in place
+
+1. download stock market prices in csv for every day using bhav at eod
+2. load these into database - mysql
